@@ -26,7 +26,7 @@
         Tunjukkan panjang Array di Soal No 1 dan tampilkan isi dari masing-masing Array. */
         echo "Cast Stranger Things: ";
         echo "<br>";
-        echo "Total Kids: "; // Berapa panjang array kids 
+        echo "Total Kids: ". count($kids); // Berapa panjang array kids 
         echo "<br>";
         echo "<ol>";
         echo "<li> $kids[0] </li>";
@@ -37,7 +37,7 @@
         echo "<li> $kids[5] </li>";
         // Lanjutkan
         echo "</ol>";
-        echo "Total Adults: "; // Berapa panjang array adults 
+        echo "Total Adults: " . count($adults); // Berapa panjang array adults 
         echo "<br>";
         echo "<ol>";
         echo "<li> $adults[0] </li>";
