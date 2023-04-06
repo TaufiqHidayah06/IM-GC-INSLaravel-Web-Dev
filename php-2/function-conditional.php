@@ -28,7 +28,7 @@ function greetings($nama){
 // Hapus komentar untuk menjalankan code!
 greetings("Bagas"); 
 greetings("Wahyu"); 
-greetings("nama peserta");
+greetings("Taufiq Hidayah");
 echo "<br>"; 
 echo "<h3>Soal No 2 Reverse String</h3>"; 
 /*
@@ -56,7 +56,7 @@ function reverseString($kata2){
 }
 
 // Hapus komentar di bawah ini untuk jalankan Code
-reverseString("nama peserta"); 
+reverseString("Taufiq Hidayah"); 
 reverseString("Sanbercode"); 
 reverseString("We Are Sanbers Developers");
 echo "<br>"; 
